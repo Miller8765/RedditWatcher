@@ -23,5 +23,5 @@ A Java-based bot that monitors multiple subreddits for new posts and sends real-
 ## Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reddit-new-post-bot.git
+   git clone https://github.com/Miller8765/RedditWatcher.git
 
